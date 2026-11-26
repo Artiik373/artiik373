@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Expect the unexpected.</b><br>
-  <sub>Building things in Munich · Powered by curiosity, and questionable side projects.</sub>
+  <sub>Building things not in Munich · Powered by curiosity, and questionable side projects.</sub>
 </p>
 
 <p align="center">
